@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.croisCenter {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+}
